@@ -1,3 +1,3 @@
 # MouseMove
 
-This is simple tool to move mouse pointer automatically. May be helpful for support guys:)
+This is simple ROBOT to make you online all the time. May be helpful for support guys:)
